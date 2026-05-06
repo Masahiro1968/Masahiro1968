@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome my repository.<br>
+ようこそ、私のリポジトリへ。
+
+I'm now trying to use Qt.<br>
+現在、Qtを使ったプログラムを勉強中です。
+
+
 <!--
 **Masahiro1968/Masahiro1968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
